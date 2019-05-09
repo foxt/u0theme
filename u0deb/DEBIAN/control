@@ -1,0 +1,11 @@
+Package: com.thelmgn.u0theme
+Name: u0theme
+Version: 0.1
+Depends: firmware (>= 7.0)
+Architecture: iphoneos-arm
+Description: why did i make this?
+Section: Themes
+Author: Leo Nesfield <leo@thelmgn.com>
+Maintainer: Leo Nesfield <leo@thelmgn.com>
+Tag: compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: https://cydia.thelmgn.com/cydiaRepo/depiction/com.thelmgn.u0theme/
